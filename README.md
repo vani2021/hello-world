@@ -1,4 +1,3 @@
 # hello-world
-HelloWorld Project
-
-Learner
+HelloWorld Project.
+Learning to Code
